@@ -1,19 +1,29 @@
 <h1 align="center">Hola 👋, soy Antonio José</h1>
-<h3 align="center">Desarrollador FrontEnd</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniojosetorronteras&label=Profile%20views&color=0e75b6&style=flat" alt="antoniojosetorronteras" /> </p>
 
--  Estudiando: **Tailwind, Curso MYSQL, Astro, React**
+Estudiando: **Tailwind, Curso MYSQL, Astro, React**
 
-- Colaboración en [Tienda Ibéricos COVAP](https://tienda.ibericoscovap.com)
+Colaboración en 
+- [Tienda Ibéricos COVAP](https://tienda.ibericoscovap.com)
 
-- 💬 Sobre mí
+Desarrollos:
+- PORTAL COVAP
+- CAMPUS INNOVACTION
+- PORTAL LACTEOS COVAP
+- PORTAL CARNES COVAP
+- NAVIDAD COVAP
+
+💬 Sobre mí
+
 Soy una persona tranquila, familiar y con capacidad para trabajar en equipo. Capaz gestionar y desarrollar los proyectos que se requieran, valorando las opciones y herramientas disponibles, y elegirlas en función del proyecto a ejecutar.
 
-- 📫 Contacto **antoniojosetorronteras@gmail.com**
+📫 Contacto **antoniojosetorronteras@gmail.com**
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
+  LINKEDIN: https://www.linkedin.com/in/antonio-jose-torronteras-gallardo-430b94145
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
